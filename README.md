@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://pbs.twimg.com/profile_images/1036356177288937472/3TOEeQDt_400x400.jpg" alt="Xeon" width="170" />
+<img src="https://pbs.twimg.com/profile_images/1036356177288937472/3TOEeQDt_400x400.jpg" alt="Sibu" width="170" />
 
-## Doge Bot
+## Sibu Bot
 
 </div>
 
@@ -48,17 +48,17 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/Sibuu07/DogeBot/blob/master/session.json#L1)
+[`Click Here`](https://github.com/Sibuu07/DogeBot-1/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/Sibuu07/DogeBot/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/Sibuu07/DogeBot/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/Sibuu07/DogeBot-1/blob/master/index.js#L136)
+- CHANGE OWNER NAME [Here](https://github.com/Sibuu07/DogeBot-1/blob/master/index.js#L138)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/Sibuu07/DogeBot.git
+🦄 git clone https://github.com/Sibuu07/DogeBot-1.git
 🦄 cd DogeBot
 🦄 npm start
 ```
@@ -75,8 +75,8 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/Sibuu07/DogeBot
-🦄 cd DogeBot
+🦄 git clone https://github.com/Sibuu07/DogeBot-1
+🦄 cd DogeBot-1
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm install
@@ -92,9 +92,9 @@ My Personal Chat👇
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/FpE1TXXUzuk0TASzYwX8ZM"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href=""><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 
 # Thanks To
-[`Xeon`](https://github.com/DGXeon)
+[`Sibu`](https://github.com/Sibuu07)
