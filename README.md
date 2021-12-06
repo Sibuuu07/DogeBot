@@ -15,18 +15,6 @@
 <a href="#"><img title="Sibu" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
-## Replit by [`ZeeoneOfc`](https://github.com/zeeoneofc)
-[` Click Here`](https://replit.com/@zeeoneofc/Alphabot-string-session?lite=1&outputonly=1#main.py)
-
-## Paste this in replit for the qrcode
-```
-rm -rf Alphab0t9 && git clone https://github.com/zeeoneofc/Alphab0t9 && cd Alphab0t9 && rm -rf session.json && npm start
-```
-## Copy paste this in whatsapp after scanning qrcode
-```
-$ cat session.json
-```
-
 ## Deploy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sibuu07/DogeBot/)
 
